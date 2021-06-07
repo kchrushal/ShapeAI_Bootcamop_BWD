@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  background-color: lightgray;
+}
+
+h1 {
+  padding-top: 0px;
+  background-color: blue;
+  color: white;
+  margin-top: 0px;
+  padding-left: 10px;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  font-size: 1.8em;
+  margin-bottom: 6px;
+}
+
+.container {
+  display: block;
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: 1px solid;
+  padding: 15px;
+  border-color: white;
+  margin: 16px;
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+}
